@@ -1,0 +1,21 @@
+*notepad.txt* Notepad
+Author:  Dawid Wołosowicz <https://1823.pl>
+
+INTRODUCTION                        *notepad*
+
+A very, very simple Vim plugin that offers a nice syntax higlighting and some
+very non-spectacular keybindings making it easier to write timestamped notes
+in vim.
+
+KEYBINDINGS                         *notepad-keybindings*
+
+<C-i>           Insert a new note at the very top of the file.
+
+
+ABOUT                               *notepad-about*
+
+Grab the latest version or report a bug on GitHub:
+
+http://github.com/d1823/vim-notepad
+
+ vim:tw=78:et:ft=help:norl:
